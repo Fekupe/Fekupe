@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6600FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D7C66&height=120&section=header"/>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Fekupe&show_icons=true&count_private=true&hide_border=true&title_color=6600FF&icon_color=6600FF&text_color=6600FF&bg_color=0d1117" alt="Gabriel Cândido github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fekupe&layout=compact&hide_border=true&title_color=6600FF&text_color=6600FF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Fekupe&show_icons=true&count_private=true&hide_border=true&title_color=73946B&icon_color=73946B&text_color=73946B&bg_color=000000" alt="Gabriel Cândido github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fekupe&layout=compact&hide_border=true&title_color=73946B&text_color=73946B&bg_color=000000" />
 </div>
 
 [![Fekupe github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fekupe&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
