@@ -5,7 +5,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fekupe&layout=compact&hide_border=true&title_color=73946B&text_color=73946B&bg_color=000000" />
 </div>
 
-[![Fekupe github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fekupe&bg_color=0D7C66&color=123458&line=70a5fd&point=a9b1d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Fekupe github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fekupe&bg_color=212830&color=73946B&line=70a5fd&point=a9b1d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Fekupe&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
