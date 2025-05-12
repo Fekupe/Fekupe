@@ -41,4 +41,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Fekupe}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6600FF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D7C66&height=120&section=footer"/>
